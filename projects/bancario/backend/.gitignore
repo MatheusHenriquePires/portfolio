@@ -1,8 +1,0 @@
-target/
-.mvn-bin/
-*.class
-*.jar
-*.war
-.idea/
-*.iml
-.DS_Store

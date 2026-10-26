@@ -1,14 +1,9 @@
-# Portfolio deploy
-projects/bancario/backend/.git/
-projects/bancario/backend/target/
-projects/bancario/.mvn-bin/
-.DS_Store
-*.log
-
-# Maven build output
-projects/caixa-mercado-java/target/
-
-# Imagens originais pesadas (somente a versão otimizada .webp vai pro git)
-assets/profile.png
-assets/profile.jpg
-assets/@.png
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+playwright-report/
+test-results/
+.local/
